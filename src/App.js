@@ -6,7 +6,6 @@ import Home from "./pages/Home"
 import Beers from "./pages/Beers"
 import Beer from "./pages/Beer"
 import RandomBeer from "./pages/RandomBeer"
-// import NewBeer from "./pages/NewBeer"
 
 function App() {
   return (
